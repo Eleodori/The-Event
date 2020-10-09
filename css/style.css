@@ -12,7 +12,7 @@
 body {
   background: #fff;
   color: #2f3138;
-  font-family: "Norwester", "Oswald";
+  font-family: "norwester", "Oswald";
 }
 
 a {
@@ -39,7 +39,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Norwester';
+  font-family: 'norwester';
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
