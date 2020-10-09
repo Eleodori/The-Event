@@ -12,7 +12,7 @@
 body {
   background: #fff;
   color: #2f3138;
-  font-family: "Norwester";
+  font-family: "Norwester", "Oswald";
 }
 
 a {
@@ -168,7 +168,7 @@ h6 {
   margin: 0;
   padding: 6px 0;
   line-height: 1;
-  font-family: "Norwester", sans-serif;
+  font-family: "Norwester", "oswald", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
